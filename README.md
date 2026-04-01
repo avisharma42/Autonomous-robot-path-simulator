@@ -13,7 +13,8 @@ A Python 3D simulator for autonomous navigation in dynamic environments, featuri
 
 ## Screenshot
 
-![Autonomous Robot Path Simulator in action](screenshot.png)
+<img width="1548" height="888" alt="image" src="https://github.com/user-attachments/assets/84361333-d008-4e43-840e-92423cb455ce" />
+
 
 *The simulator running with A* pathfinding. The blue tiles show the computed path from the green start marker (lower left) to the red goal marker (upper right). Purple obstacles block the grid; the robot will move smoothly along the blue path when Start Sim is pressed.*
 
