@@ -76,11 +76,5 @@ To enable it:
 Published topic:
 
 - `/sim/state` (`std_msgs/String`) with state, robot position, and metrics.
-
-## Academic Viva Notes
-
-- Path planning and motion are modularly separated.
-- Pathfinding outputs discrete waypoints; motion converts them to continuous trajectories.
-- RK4 integration improves stability/accuracy over Euler integration for smooth robot behavior.
-- Dynamic obstacles trigger online replanning from robot current position.
-- Visualization separates scene rendering, camera control, and dashboard overlay.
+Author
+Avi Sharma
