@@ -1,0 +1,1 @@
+"""Optional ROS integration layer."""
